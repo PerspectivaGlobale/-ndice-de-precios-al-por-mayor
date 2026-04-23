@@ -1,2 +1,2 @@
-# -índice-de-precios-al-por-mayor
+# -Índice-de-precios-al-por-mayor
 Existe una gran cantidad de situaciones económicas en las cuales es conveniente utilizar otro tipo de índice, que refleje los precios de los productos en el momento en que éstos son vendidos por su productor, o en que son vendidos “por primera vez” como tales. Estos precios son los que tienen real vigencia para las empresas productoras, y su evolución absoluta y relativa les permitirá evaluar su funcionamiento histórico, proyectar su actividad futura, fijar políticas, etc. También interesan a las autoridades del área económica, ya que, en base a ellos, fundamentalmente, decidirán su política de precios, y la rentabilidad teórica a asignar a cada sector o rama de actividad.  
